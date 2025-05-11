@@ -70,7 +70,7 @@ function Home() {
               <h3>Global Certification</h3>
               <p>
                 A certificate without knowledge is like a gun without bullets in
-                your hand.{" "}
+                your hand.{"  "}
               </p>
             </div>
           </div>
