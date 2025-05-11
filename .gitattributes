@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
-* text=auto
 #This is the git attributes
+
+* text=auto
